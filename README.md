@@ -23,3 +23,10 @@ SQL Practice
 uploaded SQL practice files and queries.
 **Career Objective**
 To start my career as a Data Analyst and use my analytical and technical skills to solve business problems.
+## Project Screenshots
+### Excel Dashboard
+![Excel Dashboard](excel.png)
+### Power BI Dashboard
+![Power BI Dashboard](powerbi.png)
+### Tableau Dashboard
+![Tableau Dashboard](tableau.png)
